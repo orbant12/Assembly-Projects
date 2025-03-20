@@ -19,7 +19,7 @@ Here you can find solution inspiration for assembly programs
 ----
 
 ### Difference Between Two Files with flags -i & -B 
-
+ 
 - The program is simplified my_diff function for performing a line-based comparison of two files. It checks every line and see if it is different in some way
 
 ---
